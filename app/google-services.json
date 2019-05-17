@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "344451386339",
+    "firebase_url": "https://najda2-97271.firebaseio.com",
+    "project_id": "najda2-97271",
+    "storage_bucket": "najda2-97271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344451386339:android:ed21a37e9899fae8",
+        "android_client_info": {
+          "package_name": "com.sa.itcompanyps.najda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344451386339-gsfpb5le82r6eltgjf1671on4n7rth7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sa.itcompanyps.najda",
+            "certificate_hash": "8729c0f7285a6651047775255f07a723d2ca6fba"
+          }
+        },
+        {
+          "client_id": "344451386339-p3iv63mgpm2sjkgv1c3uq7hc327b73k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWItheehuM36kbz4XUxHK3Yj_wuKDMefg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344451386339-p3iv63mgpm2sjkgv1c3uq7hc327b73k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
